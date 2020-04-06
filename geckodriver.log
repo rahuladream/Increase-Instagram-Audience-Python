@@ -1,0 +1,46 @@
+1586201121953	geckodriver	INFO	geckodriver 0.19.1
+1586201121968	geckodriver	INFO	Listening on 127.0.0.1:44659
+1586201582224	geckodriver	INFO	geckodriver 0.19.1
+1586201582241	geckodriver	INFO	Listening on 127.0.0.1:60457
+1586201732417	geckodriver	INFO	geckodriver 0.19.1
+1586201732422	geckodriver	INFO	Listening on 127.0.0.1:47725
+1586201868363	geckodriver	INFO	geckodriver 0.19.1
+1586201868368	geckodriver	INFO	Listening on 127.0.0.1:43263
+1586201870608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9BPFfi8jEEQi"
+1586201871321	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586201871351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586201871351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586201871352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586201871352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586201871403	Marionette	TRACE	Received observer notification profile-after-change
+1586201871461	Marionette	TRACE	Received observer notification command-line-startup
+1586201871461	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1586201871577	Marionette	TRACE	Received observer notification toplevel-window-ready
+1586201873621	Marionette	TRACE	Received observer notification marionette-startup-requested
+1586201873621	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1586201873756	Marionette	TRACE	All scripts recorded.
+1586201873757	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1586201873757	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1586201873758	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1586201873758	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1586201873758	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1586201873758	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1586201873758	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1586201873759	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1586201873759	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1586201873760	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1586201873837	Marionette	INFO	Listening on port 46043
+1586201873837	Marionette	DEBUG	Marionette is listening
+1586201918245	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1586201918246	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1586201918246	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1586201918247	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1586201918247	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1586201918247	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1586201918248	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1586201918248	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1586201918248	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1586201918249	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1586201918250	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1586201918251	Marionette	INFO	Stopped listening on port 46043
+1586201918252	Marionette	DEBUG	Marionette stopped listening
